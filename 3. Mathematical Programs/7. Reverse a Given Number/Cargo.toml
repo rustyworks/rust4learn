@@ -1,0 +1,6 @@
+[package]
+name = "reverse_a_given_number"
+version = "0.1.0"
+authors = ["tristanto <tristanto.kurniawan@gmail.com>"]
+
+[dependencies]
