@@ -1,0 +1,4 @@
+[root]
+name = "find_factorial_of_number_using_recursion"
+version = "0.1.0"
+
